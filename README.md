@@ -29,17 +29,30 @@
 
 ## 📂 Estrutura do Repositório  
 
-├── dml/
-│ ├── insert.sql
-│ ├── update.sql
-│ ├── delete.sql
-│ └── select.sql
-├── views/
-│ ├── create_view.sql
-│ ├── alter_view.sql
-│ └── drop_view.sql
-├── functions/
-│ ├── scalar_function.sql
-│ ├── aggregate_function.sql
-│ └── exemplos_praticos.sql
-└── README.md
+📁 dml/
+
+- insert.sql – Inserção de registros
+
+- update.sql – Atualização de dados
+
+- delete.sql – Exclusão de registros
+
+- select.sql – Consultas e filtros
+
+📁 views/
+
+- create_view.sql – Criação de views
+
+- alter_view.sql – Alteração de views
+
+- drop_view.sql – Exclusão de views
+
+📁 functions/
+
+- scalar_function.sql – Funções escalares
+
+- aggregate_function.sql – Funções de agregação
+
+- exemplos_praticos.sql – Exemplos práticos e combinações
+
+📄 README.md – Documentação do repositório
