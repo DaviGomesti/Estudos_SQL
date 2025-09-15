@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Repositório de Estudos em SQL  
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
@@ -28,3 +29,6 @@
 
 ## 📂 Estrutura do Repositório  
 
+=======
+# Estudos_SQL
+>>>>>>> 24729c1fd1fc2d85ef75a1054bf963b63f5aa4dd
