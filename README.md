@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # 📚 Repositório de Estudos em SQL  
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)
@@ -29,6 +29,17 @@
 
 ## 📂 Estrutura do Repositório  
 
-=======
-# Estudos_SQL
->>>>>>> 24729c1fd1fc2d85ef75a1054bf963b63f5aa4dd
+├── dml/
+│ ├── insert.sql
+│ ├── update.sql
+│ ├── delete.sql
+│ └── select.sql
+├── views/
+│ ├── create_view.sql
+│ ├── alter_view.sql
+│ └── drop_view.sql
+├── functions/
+│ ├── scalar_function.sql
+│ ├── aggregate_function.sql
+│ └── exemplos_praticos.sql
+└── README.md
